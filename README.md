@@ -5,6 +5,8 @@ Johns Hopkins U.  : Practical Machine Learning
 
 Here is my github repository the for the Practical Machine Learning class.
 For this project I am generating it based on what is specifically outlined in the course project grading rubric.  That can be found on the page with Course Project : Write up.
+
+If you are grading but some other means please fill it out in the comments!
        
        
        
