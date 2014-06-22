@@ -8,6 +8,7 @@ For this project I am generating it based on what is specifically outlined in th
 
 If you are grading but some other means please fill it out in the comments!
        
+Edit 6/22 :  I am also including a Write up Viewable file done in KnitR. This will allow you to see the file without having to download the HTML. Not in scope but couldn't get the github way to work!       
        
        
        What you should submit
