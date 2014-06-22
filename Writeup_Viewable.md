@@ -63,7 +63,7 @@ Running Models to Find the Most Accurate
 ---------------------------------------------------
 After the data was split, models were run on the training set to find the model with the highest predictive accuracy.
 
-The order of the runs in the code is: Bootstrapped Tree, Boosted Tree, Random Forest, and Naïve Bayes.
+The order of the runs in the code is: Bootstrapped Tree, Boosted Tree, Random Forest, and Naï¿½ve Bayes.
 
 Primarily, the Caret Package was used to build these but the gbm and randomforest package were required directly.
 
@@ -83,7 +83,7 @@ I was also looking at the kappa. This measures the agreement of prediction with 
 
 The confusionMatrix in Caret provides all of this functionally I need to judge this and more, like where it was misclassified (error rate) for example.
 
-The below code compares the models : Decision Tree, Boosted Decision Tree, Random Forest, and Naïve Bayes - in that order.
+The below code compares the models : Decision Tree, Boosted Decision Tree, Random Forest, and Naï¿½ve Bayes - in that order.
 
 ```
 confusionMatrix(a.tree, test$classe)
